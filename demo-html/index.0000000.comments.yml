@@ -1,0 +1,30 @@
+inline_comments:
+  - id: thread-1788039377915
+    anchor_hash: anchor-8-highlight-any-text-on-th
+    anchor_text: Highlight
+    paragraph_index: 0
+    heading_context: Highlight any text on this rendered page
+    body: highlight
+    created_at: "2026-08-29T21:36:17.915Z"
+    author: Marat Strelets
+    author_avatar: "https://avatars.githubusercontent.com/u/5516364?v=4"
+    author_login: mstrelex
+    orphaned: false
+    resolved: false
+    reactions: []
+    replies: []
+  - id: thread-1788039301123
+    anchor_hash: anchor-8-highlight-any-text-on-th
+    anchor_text: discuss
+    paragraph_index: 0
+    heading_context: Highlight any text on this rendered page
+    body: discuss
+    created_at: "2026-08-29T21:35:01.123Z"
+    author: Marat Strelets
+    author_avatar: "https://avatars.githubusercontent.com/u/5516364?v=4"
+    author_login: mstrelex
+    orphaned: false
+    resolved: false
+    reactions: []
+    replies: []
+page_comments: []
